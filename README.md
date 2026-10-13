@@ -1,4 +1,4 @@
-# 📦 Controle de Estoque em Excel
+# Controle de Estoque em Excel
 
 Projeto de **controle e análise de estoque desenvolvido em Excel**,
 criado como projeto de portfólio para demonstrar conhecimentos em
@@ -30,7 +30,7 @@ uma pequena operação, permitindo acompanhar:
 
 ------------------------------------------------------------------------
 
-## 🗂️ Estrutura do projeto
+## Estrutura do projeto
 
 A pasta de trabalho está organizada na Introdução e em Duas abas principais:
 
